@@ -1,0 +1,3 @@
+# pyImgTX
+
+python + fldigi = pyImgTX
